@@ -2,9 +2,6 @@
    <NavBarreComponent />
      <div class="
      ">
-     
-   
-   
      <div class="flex flex-wrap mt-[1%] mb-[10%] sm:mt-[30%] md:mt-[18%]
      lg:grid lg:grid-cols-2 lg:gap-0  lg:mt-[15%] lg:mx-[22%]
      xl:grid xl:grid-cols-2 xl:gap-0  xl:mt-[15%] xl:mx-[22%]
